@@ -1,3 +1,5 @@
+//Vide comentário de Adelcio Boneti
+
 const values = {
   I: 1,
   V: 5,
